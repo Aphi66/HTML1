@@ -1,0 +1,52 @@
+body {
+    font-size: 18px;
+}
+h1 {
+    font-size: bold;
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: palevioletred; 
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    font-size: bold;
+    height: 50px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h5 {
+    font-size: larger;
+    height: 550px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: darkgray;
+    color: white;
+    display: flex;
+    justify-content: left;
+}
+#p {
+    font-size: bold;
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(116, 57, 128); 
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
